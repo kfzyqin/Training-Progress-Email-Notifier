@@ -84,5 +84,7 @@ You can also contact Zhenyue Qin (zhenyue.qin@anu.edu.au).
 The icon was downloaded from Freeplk: 
 - [Freeplk](https://www.flaticon.com/free-icon/message_3062634)
 
+The code of email template is based on: https://github.com/ThinkGoBig/templates. 
+
 ## Licence
 [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/)
