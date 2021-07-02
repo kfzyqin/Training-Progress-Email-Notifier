@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="#Usage">Usage</a> •
-  <a href="#Exhibition">Exhibition</a> •
-  <a href="#Citation">Citation</a> •
+  <a href="#Screenshots">Exhibition</a> •
+  <a href="#Languages">Citation</a> •
   <a href="#Credits">Credits</a> •
   <a href="#Licence">Licence</a>
 </p>
