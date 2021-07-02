@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#Usage">Usage</a> •
   <a href="#Screenshots">Screenshots</a> •
-  <a href="#Languages">Citation</a> •
+  <a href="#Languages">Languages</a> •
   <a href="#Credits">Credits</a> •
   <a href="#Licence">Licence</a>
 </p>
@@ -20,7 +20,7 @@ Overview
 
 <p align="center">
 <strong align="center">
-Heimdall watchtower automatically send you emails to 
+Heimdall watchtower automatically sends you emails to 
 notify you of the latest progress of your deep learning 
 programs. In this way, you will know how the training goes 
 wherever you are. You will also know as soon as your 
