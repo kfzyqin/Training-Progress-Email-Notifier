@@ -85,4 +85,4 @@ if __name__ == '__main__':
                           ''],  # Type in your email address to have a try
                email_type='exp_complete',  # email_type; email_type
                msg_content=test_msg,
-               language='chinese')
+               language='english')
