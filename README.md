@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#Usage">Usage</a> •
-  <a href="#Screenshots">Exhibition</a> •
+  <a href="#Screenshots">Screenshots</a> •
   <a href="#Languages">Citation</a> •
   <a href="#Credits">Credits</a> •
   <a href="#Licence">Licence</a>
@@ -51,6 +51,16 @@ and allow the new account for less-secure app access.
 Instructions: 
 - [Open SMTP](https://support.google.com/mail/answer/7126229?hl=en)
 - [Allow Less-Secure APP Access](https://support.google.com/accounts/answer/6010255?hl=en)
+
+### Email Types
+We provide three types of emails: 
+1. Experiment Progress: In the middle of one experiment, 
+when you wish to see the results after one epoch, 
+you may use this one. 
+2. Experiment Complete: When one experiment has completed, 
+you can send this email. 
+3. Emergency: When your program has terminated unexpectedly, 
+this email can be applied. 
 
 ## Screenshots
 <p align="center">
